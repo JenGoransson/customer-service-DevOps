@@ -41,7 +41,7 @@ class CustomerControllerTest {
 
         CustomerResponse response = new CustomerResponse(
                 1L,
-                "Marcus",
+                "M",
                 "Viklund",
                 "marcus.viklund@gmail.com",
                 "123456789"
